@@ -1,0 +1,29 @@
+_repo: The-Twa-Miss-Dawsons_38197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, Margaret M. (Margaret Murray)
+    alias: Robertson, Margaret Murray
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '9785'
+    url: http://www.gutenberg.org/2009/agents/9785
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Nieces -- Fiction'
+title: The Twa Miss Dawsons
+url: http://www.gutenberg.org/ebooks/38197
